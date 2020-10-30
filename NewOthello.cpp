@@ -1,5 +1,6 @@
 ﻿#include <bangtal>
 #include <iostream>
+#include <ctime>
 
 using namespace bangtal;
 using namespace std;
